@@ -12,6 +12,10 @@
 - Maven 3.8+
 - PostgreSQL 14+
 
+## Documentação da API
+**🌐 Swagger UI**
+- Acesse a documentação interativa em: **http://localhost:8080/swagger-ui.html**
+
 ### Funcionalidades Principais
 
 - **🏰 Gestão de Reinos**: CRUD completo para reinos
